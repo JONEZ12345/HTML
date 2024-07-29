@@ -1,0 +1,13 @@
+.external{
+    color: gold;
+}
+
+p{
+    color: gray;
+}
+
+p:hover{
+    color: purple;
+    cursor: pointer;
+    font-size: large;
+}

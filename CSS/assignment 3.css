@@ -1,0 +1,46 @@
+
+        * {
+            border-style: double;
+            /* border: 2px;
+            border-style: solid;
+            border-color: goldenrod; */
+            background-color: black;
+            padding: 5px;
+            margin: 2px 0 2px 0px;
+            font-size: larger;
+        }
+
+        .contain{
+            background-color: whitesmoke;
+        }
+
+        .p1 {
+            color: greenyellow;
+            font-size: 200px;
+            background-color: blanchedalmond;
+        }
+
+        .p2 {
+            color: grey;
+            font-size: 110px;
+            background-color: transparent;
+        }
+
+        .p3 {
+            color: black;
+            font-size: 150px;
+            background-color: transparent;
+        }
+
+        .p4 {
+            color: aqua;
+            font-size: 200px;
+            background-color: olivedrab;
+        }
+
+        .px {
+            color: white;
+            font-size: 100px;
+            background-color: darkslategray;
+        }
+
